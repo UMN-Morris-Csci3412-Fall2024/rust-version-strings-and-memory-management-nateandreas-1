@@ -1,0 +1,6 @@
+# palindrome/Cargo.toml
+
+[package]
+name = "palindrome"
+version = "1.0.0"
+edition = "2021"
